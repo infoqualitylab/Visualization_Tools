@@ -91,21 +91,21 @@
 <br/>
 
 ## Payola
-**Ranking:**<br/>
+**Ranking:** 5<br/>
 <br/>
-**Background:** https://github.com/payola/Payola --> <br/>
+**Background:** https://github.com/payola/Payola --> "Payola is an HTML5 web application which lets you work with graph data in a completely new way. You can visualize Linked Data using several preinstalled plugins as graphs, tables, etc. This also means, that you no longer need Pubby to browse through a Linked Data storage (via its SPARQL endpoint). Moreover, you can create an analysis and run it against a set of SPARQL endpoints without deep knowledge of SPARQL language itself. Analysis results are processed and visualized using the embedded visualization plugins." <br/>
 <br/>
-**Paywall?:** <br/>
+**Paywall?:** No.<br/>
 <br/>
-**Data types (import):** <br/>
+**Data types (import):** Because Payola works in the browser and directly with SPARQL endpoints, most data being "imported" comes from a URI. The author was unable to determine if other data imports were possible, such as .csv, .txt, or even RDF.<br/>
 <br/>
-**Data types (export):** <br/>
+**Data types (export):** .png. Based on available documentation, the author was unable to determine if other data exports were possible.<br/>
 <br/>
-**Types of visualizations:** <br/>
+**Types of visualizations:** Payola comes with several visualization plug-ins. Examples of potential visualizations include circle, gravity, or even tree visualizations. Can also produce various types of charts (i.e. bar, pie, etc.).<br/>
 <br/>
-**Special/Unique features:** <br/>
+**Special/Unique features:** Possesses many types of plug-ins so that the user would be able to further customize and analyze their data and output.<br/>
 <br/>
-**Analysis:** <br/>
+**Analysis:** This tool is particularly difficult to use. Just to install the application, a Scala environment is required on the user's machine. In addition to the server, a Squeryl-compatible relational database as well as a Virtuoso server is necessary. In addition to the initial download, configuration and compilation of the Virtuoso and H2 servers are also necessary. The initial installation also requires the use of Git and the command line. The application displays in HTML5. The author of this document was unable to complete the installation process or to actually launch this program. There are many cool and unique visualizations that Payola claims to be able to produce, but the installation processes as well as the interface itself is exceptionally complex, particularly for newcomers.<br/>
 <br/>
 
 ## RDF Studio
