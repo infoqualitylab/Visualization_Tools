@@ -26,12 +26,13 @@ This is a developing list of potential visualization tools (in alphabetical orde
 **Linked data:** A way of connecting information on the web that ultimately increases discoverability.<br/>
 <br/>
 **RDF:** Resource Description Framework. A way to describe online resources. This framework is meant to be read my computers and is built in XML.<br/>
+<br/>
+**SPARQL:** A way of querying RDF. Possesses similarities to SQL.<br/>
+<br/>
+**Ontology:** A framework that describes a specific domain. To learn more about ontologies, see https://en.wikipedia.org/wiki/Ontology_(information_science). For the purposes of this project, the ontologies being mentioned are specific to linked data.<br/>
+
 
 ## List of Contributers
 As you add information or data to this list and repository, please enter your name/GitHub in this space.
 
 Halle Burns, https://github.com/hburns2 <br/>
-<br/>
-**SPARQL:** A way of querying RDF. Possesses similarities to SQL.<br/>
-<br/>
-**Ontology:** A framework that describes a specific domain. To learn more about ontologies, see https://en.wikipedia.org/wiki/Ontology_(information_science). For the purposes of this project, the ontologies being mentioned are specific to linked data.<br/>
