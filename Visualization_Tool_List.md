@@ -10,18 +10,23 @@ This is a developing list of potential visualization tools (in alphabetical orde
 **Note: For any additional tools that are added to this list, in order to maintain consistency, the author requests that subsequent contributers to maintain to the evaluation format demonstrated below.**
 
 # Definitions
-Visualization:
-RDF:
-SPARQL:
-Linked data:
-Ontology:
+Visualization: <br/>
+RDF: <br/>
+SPARQL: <br/>
+Linked data: <br/>
+Ontology: <br/>
 
 # Cytoscape
 **Ranking:** 3 <br/>
+<br/>
 **Background:** https://cytoscape.org/ --> <br/>
+<br/>
 **Paywall?:** No <br/>
+<br/>
 **Data types (import):** <br/>
+<br/>
 **Data types (export):** <br/>
+<br/>
 **Types of visualizations:** <br/>
 **Special/Unique features:** <br/>
 **Analysis:** <br/>
@@ -57,8 +62,9 @@ Ontology:
 **Analysis:** <br/>
 
 # LodLive
-**Ranking:** 3 <br/>
-**Background:** http://en.lodlive.it/ --> LodLive runs in a broswer. "LodLive is an experimental project that was set-up to spread and promote the linked-open-data philosophy and to create a tool that can be used for connecting RDF browser capabilities with the effectiveness of data graph representation. LodLive is the first navigator to use RDF resources based solely on SPARQL endpoints." This tool appears to still be in the early stages, as much is labeled as "Coming Soon." <br/>
+**Ranking:** 3
+<br/>
+**Background:** http://en.lodlive.it/ --> LodLive runs in a broswer. "LodLive is an experimental project that was set-up to spread and promote the linked-open-data philosophy and to create a tool that can be used for connecting RDF browser capabilities with the effectiveness of data graph representation. LodLive is the first navigator to use RDF resources based solely on SPARQL endpoints." This tool appears to still be in the early stages, as much is labeled as "Coming Soon."
 <br/>
 **Paywall?:** No <br/>
 <br/>
