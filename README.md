@@ -1,6 +1,6 @@
 # Visualization Tools
 
-This is a developing list of potential visualization tools (in alphabetical order) based on an independent study carried out by Halle Burns (https://github.com/hburns2). The initial tools within this list were identified based on a literature review investigating visualization tools and techniques that could be utilized to showcase and explore linked data. With additions from future students, this author expects the scope of this list to become broader. It is important to note that the numerical ranking system utilzied in this list is biased and reflects what the initial author believes would be suitable and/or easy to utilize for novices exploring data analysis and visualizationn or first-time users. The rating system is as follows:
+This is a developing list of potential visualization tools (in alphabetical order) based on an independent study carried out by Halle Burns (https://github.com/hburns2). The initial tools within this list were identified based on a literature review investigating visualization tools and techniques that could be utilized to showcase and explore linked data. With additions from future students, this author expects the scope of this list to become broader. It is important to note that the numerical ranking system utilzied in this list is biased and reflects what the initial author believes would be suitable and/or easy to utilize for novices exploring data analysis and visualizationn or first-time users. The **ranking system** is as follows:
 
 1. This tool requires no previous background knowledge or skills. With some experimentation, it is reasonably easy to navigate and to understand.
 2.
@@ -16,8 +16,12 @@ This is a developing list of potential visualization tools (in alphabetical orde
 **Note: For any additional tools that are added to this list, in order to maintain consistency, the author requests that subsequent contributers to maintain to the evaluation format demonstrated below.**
 
 ## Definitions
-Visualization: <br/>
-RDF: <br/>
-SPARQL: <br/>
-Linked data: <br/>
-Ontology: <br/>
+**Visualization:** Images, diagrams, animations, etc. meant to describe something. For the purposes of this project, the "something" being described is data.<br/>
+<br/>
+**Linked data:** A way of connecting information on the web that ultimately increases discoverability.<br/>
+<br/>
+**RDF:** Resource Description Framework. A way to describe online resources. This framework is meant to be read my computers and is built in XML.<br/>
+<br/>
+**SPARQL:** A way of querying RDF. Possesses similarities to SQL.<br/>
+<br/>
+**Ontology:** A framework that describes a specific domain. To learn more about ontologies, see https://en.wikipedia.org/wiki/Ontology_(information_science). For the purposes of this project, the ontologies being mentioned are specific to linked data.<br/>
