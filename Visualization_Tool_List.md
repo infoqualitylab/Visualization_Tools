@@ -19,17 +19,17 @@
 <br/>
 
 ## Gephi
-**Ranking:** <br/>
+**Ranking:** 3<br/>
 <br/>
-**Background:** https://gephi.org/ --> <br/>
+**Background:** https://gephi.org/ --> "Gephi is a tool for data analysts and scientists keen to explore and understand graphs. Like Photoshop™ but for graph data, the user interacts with the representation, manipulate the structures, shapes and colors to reveal hidden patterns. The goal is to help data analysts to make hypothesis, intuitively discover patterns, isolate structure singularities or faults during data sourcing."<br/>
 <br/>
-**Paywall?:** No <br/>
+**Paywall?:** No. <br/>
 <br/>
-**Data types (import):** <br/>
+**Data types (import):** GEXF, GDF, GML, GraphML, Pajek NET, GraphViz DOT, CSV, UCINET DL, Tulip TPL, Netdraw VNA, Excel workbook<br/>
 <br/>
 **Data types (export):** <br/>
 <br/>
-**Types of visualizations:** <br/>
+**Types of visualizations:** Networks.<br/>
 <br/>
 **Special/Unique features:** <br/>
 <br/>
