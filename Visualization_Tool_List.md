@@ -18,24 +18,6 @@
 **Analysis:** This is a powerful tool that can be used both by beginners as well as more experienced users. Loading the data itself, particularly if the structure is domain specific, does take a few minutes to figure out. While it is not necessary to understand complex elements of network analysis, being familiar with some terminology makes using this tool easier. There is quite a bit of documentation and a rather extensive online community, so troubleshooting any issues is not terribly complex. There are many ways to customize the visualized output, including shape and color. There are also analysis options, where Cytoscape can automatically analyze the user's data, allowing more complex visualizations.<br/>
 <br/>
 
-## Dynagraph
-**Ranking:** <br/>
-<br/>
-**Background:** https://www.dynagraph.org/ --> <br/>
-<br/>
-**Paywall?:** <br/>
-<br/>
-**Data types (import):** <br/>
-<br/>
-**Data types (export):** <br/>
-<br/>
-**Types of visualizations:** <br/>
-<br/>
-**Special/Unique features:** <br/>
-<br/>
-**Analysis:** <br/>
-<br/>
-
 ## Gephi
 **Ranking:** <br/>
 <br/>
@@ -55,11 +37,11 @@
 <br/>
 
 ## Graphviz
-**Ranking:** <br/>
+**Ranking:** 4?<br/>
 <br/>
-**Background:** https://www.graphviz.org/ --> <br/>
+**Background:** https://www.graphviz.org/ --> "Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. Automatic graph drawing has many important applications in software engineering, database and web design, networking, and in visual interfaces for many other domains."<br/>
 <br/>
-**Paywall?:** <br/>
+**Paywall?:** No.<br/>
 <br/>
 **Data types (import):** <br/>
 <br/>
@@ -145,18 +127,18 @@
 <br/>
 
 ## WebVOWL
-**Ranking:**<br/>
+**Ranking:** 2<br/>
 <br/>
-**Background:** http://vowl.visualdataweb.org/webvowl.html --> <br/>
+**Background:** http://vowl.visualdataweb.org/webvowl.html --> "WebVOWL is a web application for the interactive visualization of ontologies. It implements the Visual Notation for OWL Ontologies (VOWL) by providing graphical depictions for elements of the Web Ontology Language (OWL) that are combined to a force-directed graph layout representing the ontology. Interaction techniques allow to explore the ontology and to customize the visualization."<br/>
 <br/>
 **Paywall?:** No. <br/>
 <br/>
-**Data types (import):** <br/>
+**Data types (import):** Ontology files (the author is unsure at this time which specific file extensions).<br/>
 <br/>
-**Data types (export):** <br/>
+**Data types (export):** JSON, SVG, URL, TeX (alpha), and TTL (alpha).<br/>
 <br/>
-**Types of visualizations:** <br/>
+**Types of visualizations:** Ontology networks.<br/>
 <br/>
-**Special/Unique features:** <br/>
+**Special/Unique features:** This application runs in the user's browser and does not require and software downloads or GUIs. Once specific nodes are selected, the application is able to provide certain context (i.e. a description, definition, associated elements, as well as statistics).<br/>
 <br/>
-**Analysis:** <br/>
+**Analysis:** This application is not a typical data visualization software, as it was built specifically to visualize ontologies. This allows the user to explore the relationships within an ontology, both established as well as customized ones. Because this tool is domain-specific (ontologies), it does require some background knowledge or understanding to utilize. That being said, the interface itself is extremely simple to navigate and use.<br/>
