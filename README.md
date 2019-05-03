@@ -31,6 +31,10 @@ This is a developing list of potential visualization tools (in alphabetical orde
 <br/>
 **Ontology:** A framework that describes a specific domain. To learn more about ontologies, see https://en.wikipedia.org/wiki/Ontology_(information_science). For the purposes of this project, the ontologies being mentioned are specific to linked data.<br/>
 
+## Tools that still need evaluations/entries in list
+* Tableau
+* Neo4J
+* CiteSpace
 
 ## List of Contributors
 As you add information or data to this list and repository, please enter your name/GitHub in this space.
