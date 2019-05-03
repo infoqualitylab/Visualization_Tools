@@ -32,7 +32,7 @@ This is a developing list of potential visualization tools (in alphabetical orde
 **Ontology:** A framework that describes a specific domain. To learn more about ontologies, see https://en.wikipedia.org/wiki/Ontology_(information_science). For the purposes of this project, the ontologies being mentioned are specific to linked data.<br/>
 
 
-## List of Contributers
+## List of Contributors
 As you add information or data to this list and repository, please enter your name/GitHub in this space.
 
 Halle Burns, https://github.com/hburns2 <br/>
