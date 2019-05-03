@@ -15,7 +15,7 @@
 <br/>
 **Special/Unique features:** According to their website, "Most of the features in Cytoscape supports languages other than English, including Eastern Asian languages using two-byte characters."<br/>
 <br/>
-**Analysis:** This is a powerful tool that can be used both by beginners as well as more experienced users. Loading the data itself, particularly if the structure is domain specific, does take a few minutes to figure out. While it is not necessary to understand complex elements of network analysis, being familiar with some terminology makes using this tool easier. There is quite a bit of documentation and a rather extensive online community, so troubleshooting any issues is not terribly complex. There are many ways to customize the visualized output, including shape and color. There are also analysis options, <br/>
+**Analysis:** This is a powerful tool that can be used both by beginners as well as more experienced users. Loading the data itself, particularly if the structure is domain specific, does take a few minutes to figure out. While it is not necessary to understand complex elements of network analysis, being familiar with some terminology makes using this tool easier. There is quite a bit of documentation and a rather extensive online community, so troubleshooting any issues is not terribly complex. There are many ways to customize the visualized output, including shape and color. There are also analysis options, where Cytoscape can automatically analyze the user's data, allowing more complex visualizations.<br/>
 <br/>
 
 ## Dynagraph
