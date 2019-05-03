@@ -1,21 +1,21 @@
 # List of Visualization Tools
 
 ## Cytoscape
-**Ranking:** 3 <br/>
+**Ranking:** 2 <br/>
 <br/>
-**Background:** https://cytoscape.org/ --> <br/>
+**Background:** https://cytoscape.org/ --> "Although Cytoscape was originally designed for biological research, now it is a general platform for complex network analysis and visualization."<br/>
 <br/>
-**Paywall?:** No <br/>
+**Paywall?:** No. <br/>
 <br/>
-**Data types (import):** <br/>
+**Data types (import):** .csv, .xlsx, SIF (Simple Interaction Format), GML, XGMML, BioPAX, PSI-MI, GraphML, KGML (KEGG XML), SBML, OBO, and Gene Association.<br/>
 <br/>
-**Data types (export):** <br/>
+**Data types (export):** .cys (Cytoscape Session files including networks, attributes, properties, etc.), as well as PDF, PS, SVG, PNG, JPEG, and BMP files. Using additional applications, it is possible to export networks as JSON files.<br/>
 <br/>
-**Types of visualizations:** <br/>
+**Types of visualizations:** Network graphs.<br/>
 <br/>
-**Special/Unique features:** <br/>
+**Special/Unique features:** According to their website, "Most of the features in Cytoscape supports languages other than English, including Eastern Asian languages using two-byte characters."<br/>
 <br/>
-**Analysis:** <br/>
+**Analysis:** This is a powerful tool that can be used both by beginners as well as more experienced users. Loading the data itself, particularly if the structure is domain specific, does take a few minutes to figure out. While it is not necessary to understand complex elements of network analysis, being familiar with some terminology makes using this tool easier. There is quite a bit of documentation and a rather extensive online community, so troubleshooting any issues is not terribly complex. There are many ways to customize the visualized output, including shape and color. There are also analysis options, <br/>
 <br/>
 
 ## Dynagraph
@@ -105,7 +105,7 @@
 <br/>
 **Special/Unique features:** Possesses many types of plug-ins so that the user would be able to further customize and analyze their data and output.<br/>
 <br/>
-**Analysis:** This tool is particularly difficult to use. Just to install the application, a Scala environment is required on the user's machine. In addition to the server, a Squeryl-compatible relational database as well as a Virtuoso server is necessary. In addition to the initial download, configuration and compilation of the Virtuoso and H2 servers are also necessary. The initial installation also requires the use of Git and the command line. The application displays in HTML5. The author of this document was unable to complete the installation process or to actually launch this program. There are many cool and unique visualizations that Payola claims to be able to produce, but the installation processes as well as the interface itself is exceptionally complex, particularly for newcomers.<br/>
+**Analysis:** This tool is particularly difficult to use. Just to install the application, a Scala environment is required on the user's machine. In addition to the server, a Squeryl-compatible relational database as well as a Virtuoso server is necessary. In addition to the initial download, configuration and compilation of the Virtuoso and H2 servers are also necessary. The initial installation also requires the use of Git and the command line. The application displays in HTML5. The author of this list was unable to complete the installation process or to actually launch this program. There are many unique visualizations that Payola claims to be able to produce, but the installation processes as well as the interface itself is exceptionally complex, particularly for newcomers.<br/>
 <br/>
 
 ## RDF Studio
