@@ -27,13 +27,13 @@
 <br/>
 **Data types (import):** GEXF, GDF, GML, GraphML, Pajek NET, GraphViz DOT, CSV, UCINET DL, Tulip TPL, Netdraw VNA, Excel workbook<br/>
 <br/>
-**Data types (export):** <br/>
+**Data types (export):** PNG, Gephi Project File (.gephi), CSV, GDF, GEXF, GraphML, Pajek NET, Excel workbook, PDF, SVG. <br/>
 <br/>
 **Types of visualizations:** Networks.<br/>
 <br/>
-**Special/Unique features:** <br/>
+**Special/Unique features:** Offers statistical analytics and metrics. Able to visualize how networks change over time. Many available plug-ins that enable the user to create more diverse or specific visualizations, however, these plug-ins are not required to run the platform.<br/>
 <br/>
-**Analysis:** <br/>
+**Analysis:** Similar to Cytoscape, Gephi is a very powerful network analysis tool. It can be used by both beginners as well as more experienced users. While it is not necessary to understand complex elements of network analysis, being familiar with some terminology makes using this tool easier. There is a bit of a learning curve involved in understanding the interface. There is, however, extensive documentation as well as online tutorials and resources that assist in learning to navigate the space and troubleshoot issues.<br/>
 <br/>
 
 ## Graphviz
