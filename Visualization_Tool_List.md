@@ -90,24 +90,6 @@
 **Analysis:** This tool is particularly difficult to use. Just to install the application, a Scala environment is required on the user's machine. In addition to the server, a Squeryl-compatible relational database as well as a Virtuoso server is necessary. In addition to the initial download, configuration and compilation of the Virtuoso and H2 servers are also necessary. The initial installation also requires the use of Git and the command line. The application displays in HTML5. The author of this list was unable to complete the installation process or to actually launch this program. There are many unique visualizations that Payola claims to be able to produce, but the installation processes as well as the interface itself is exceptionally complex, particularly for newcomers.<br/>
 <br/>
 
-## RDF Studio
-**Ranking:** <br/>
-<br/>
-**Background:** http://www.linkeddatatools.com/rdf-studio --> <br/>
-<br/>
-**Paywall?:** Yes. RDF Studio can be used for free for 21 days. At the end of that time, the user will be prompted to purchase a subscription or license for the product. Students or academic institutions may qualify for free or discounted rates. <br/>
-<br/>
-**Data types (import):** <br/>
-<br/>
-**Data types (export):** <br/>
-<br/>
-**Types of visualizations:** <br/>
-<br/>
-**Special/Unique features:** <br/>
-<br/>
-**Analysis:** <br/>
-<br/>
-
 ## VOSviewer
 **Ranking:** 1 <br/>
 <br/>
