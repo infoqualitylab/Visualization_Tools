@@ -35,6 +35,7 @@ This is a developing list of potential visualization tools (in alphabetical orde
 * Tableau
 * Neo4J
 * CiteSpace
+* RDF Studio
 
 ## List of Contributors
 As you add information or data to this list and repository, please enter your name/GitHub in this space.
