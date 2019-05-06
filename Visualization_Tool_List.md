@@ -37,21 +37,20 @@
 <br/>
 
 ## Graphviz
-**Ranking:** 4?<br/>
+**Ranking:** 4<br/>
 <br/>
 **Background:** https://www.graphviz.org/ --> "Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. Automatic graph drawing has many important applications in software engineering, database and web design, networking, and in visual interfaces for many other domains."<br/>
 <br/>
 **Paywall?:** No.<br/>
 <br/>
-**Data types (import):** <br/>
+**Data types (import):** N/A <br/>
 <br/>
-**Data types (export):** <br/>
+**Data types (export):** There are many types of output formats, which can be browsed on this page: 
+https://graphviz.gitlab.io/documentation/ <br/>
 <br/>
-**Types of visualizations:** <br/>
+**Types of visualizations:** Various. Appears as though networks as well as various charts and tables can be created.<br/>
 <br/>
-**Special/Unique features:** <br/>
-<br/>
-**Analysis:** <br/>
+**Analysis:** Graphviz, unlike what the author initially believed, is not strictly a "tool" but instead package of sorts in Python. This means that it does not install the same way as other "tools" nor does it operate in a similar manner. Graphviz, operating in Python, comes with its own syntax, it's own language, as well as add-ons. The downloading of the "tool" itself is fairly straightforward. However, lanching the package can prove potentially difficult. Additionally, because it is a Python package, it is utilized only through extensive coding on behalf of the user. There are several online tutorials as well as user guide, however the documentation itself can be dense and difficult to decipher.<br/>
 <br/>
 
 ## LodLive
