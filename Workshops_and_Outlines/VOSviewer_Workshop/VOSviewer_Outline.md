@@ -20,15 +20,10 @@
 
 ## Definitions 
 * Network graph - </br>
-</br>
 * Edges - </br>
-</br>
 * Nodes - </br>
-</br>
 * Citation map - </br>
-</br>
 * Research Information Systems (file extension) - </br>
-</br>
 
 ## Importing the Dataset
 1. Open VOSviewer - The screen is split into 3 columns. The left column allows for the opening of a file or the creation of a project, as well as some potential analysis (we will come back to this later). The middle column, the largest of the three, is where the visualization will be produced. The right column contains ways in which to customize the visualization itself (we will come back to this later.
