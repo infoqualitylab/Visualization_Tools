@@ -16,7 +16,6 @@
 3. Select Launch
 4. A new tab will open. Follow prompts.
 5. Application will open within a few minutes
-</br>
 
 ## Definitions 
 * Network graph - </br>
@@ -32,5 +31,5 @@
 4. We will be reading in data from a reference manager file (our RIS file). Select Next.
 5. Under the RIS tab, select the three dots on the right to open your File Explorer. Find the file citation_dataset.ris on your machine. Select OK and then Next.
 6. This next page allows you to inform the program about your dataset. For the purposes of this example, we are employing a co-authorship analysis. We will also be utilzing "full counting" and not fractional. For documents with many authors, you can instruct the program to ignore any document that contains more than a specified number of authors. In this case, let's adjust the maximum number of authors per document to 6. Then select Next.
-7. This next page involves choosing the "threshold," or where we want a document to cut off. If you lower the minimum number of documents of an author from 2 to 1, you will see the number of authors that meet the threshold rise from 5 to 65. Select Next.
+7. This next page involves choosing the "threshold," or where we want a document to cut off. If you lower the minimum number of documents of an author from 2 to 1, you will see the number of authors that meet the threshold rise from 5 to 65. Make sure that the threshold is set to 1 so that our entire dataset is selected. Select Next.
 8. 
