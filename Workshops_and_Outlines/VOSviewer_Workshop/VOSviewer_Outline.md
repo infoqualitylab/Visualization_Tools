@@ -1,5 +1,8 @@
 # Learning VOSviewer, a quick introduction
 
+## Background
+VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
+
 ## Installation
 **Note:** You MUST have a version of Java installed on your computer to run this program. If you need to download Java, it can be installed by opening the following link: https://www.java.com/en/download/</br>
 </br>
@@ -18,12 +21,12 @@
 5. Application will open within a few minutes
 
 ## Definitions 
-* Network graph - </br>
-* Edges - </br>
-* Nodes - </br>
-* Citation map - </br>
-* Research Information Systems (file extension) - </br>
-* Co-author analysis - </br>
+* Network graph - This type of visualization specifically demonstrates the relationships between different objects. It is comprised of nodes and edges.</br>
+* Edges - The line that connects two objects.</br>
+* Nodes - The objects being linked.</br>
+* Citation map - A way of visualizing the relationship between one paper and another.</br>
+* Research Information Systems (file extension) - A bibliographic citation file. This file can be produced by software such as Zotero.</br>
+* Co-author analysis - The relationship between authors in a paper.</br>
 
 ## Importing the Dataset
 1. Open VOSviewer - The main screen is split into 3 columns. The left column allows for the opening of a file or the creation of a project, as well as some potential analysis (we will come back to this later). The middle column, the largest of the three, is where the visualization will be produced. The right column contains ways in which to customize the visualization itself (we will come back to this later.
@@ -36,8 +39,25 @@
 8. 
 9. 
 
+## Navigating the Workspace: Understanding the Graphs
+Three types of graphs display with this dataset and can be changed using the tabs at the top of the screen. The first is a "standard" network graph. The authors who have worked together on different papers are shown in clusters. You can zoom and move the viewer around using the arrows as well as the plus and minus buttons on the top righthand corner of the screen. [select a cluster to inspect] If you hover your mouse over a name, the specific co-author relationships are highlighted. </br>
+</br>
+The second type of graph, the Overlay, shows the authors clustered in a similar fashion. What is different here, however, are the colors of the clusters. As you can see, the colors vary from yellow to blue. This is important because, if you look at the bottom righthand corner of the display screen, you will see a timeline sporting the same color range. Therefore, the clusters within this graph are color-coded based on the year of the referenced papers' pulications. </br>
+</br>
+The third type of graph, Density, shows the clusters once again, however the lines connecting these clusters has now vanished. Instead, the clusters are indicated by names of various sizes as well as a color range. Denser clusters (ones containing more authors) are larger spots and the authors with more connections appear in larger font sizes. </br>
+</br>
+**Brief activity:** Write down some positives and negatives of using each of these three types of graphs. What graph do you think best displays this data? Why?
+
 ## Navigating the Workspace: Understanding/Manipulating the Controls
 
-## Navigating the Workspace: Understanding the Graphs
+### Saving your Work
 
 ## Practice with CSV Files
+Make sure the CSV file (Zika_authors.csv) is downloaded somewhere easily accessible on your machine. For this dataset, we will just be creating a standard map. Experiment with the different import settings. Once imported, experiment with the different visualization options and controls. </br>
+</br>
+
+## Wrap up Questions
+* What worked for you? 
+* What did not? 
+* What do you like about using VOSviewer?
+* What do you not like?
