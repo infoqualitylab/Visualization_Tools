@@ -1,7 +1,7 @@
 # Learning VOSviewer, a quick introduction
 
 ## Background
-VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
+"VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature." - http://www.vosviewer.com/
 
 ## Installation
 **Note:** You MUST have a version of Java installed on your computer to run this program. If you need to download Java, it can be installed by opening the following link: https://www.java.com/en/download/</br>
@@ -53,8 +53,7 @@ The third type of graph, Density, shows the clusters once again, however the lin
 ### Saving your Work
 
 ## Practice with CSV Files
-Make sure the CSV file (Zika_authors.csv) is downloaded somewhere easily accessible on your machine. For this dataset, we will just be creating a standard map. Experiment with the different import settings. Once imported, experiment with the different visualization options and controls. </br>
-</br>
+Make sure the CSV file (Zika_authors.csv) is downloaded somewhere easily accessible on your machine. For this dataset, we will just be creating a standard map. Experiment with the different import settings. Once imported, experiment with the different visualization options and controls.
 
 ## Wrap up Questions
 * What worked for you? 
