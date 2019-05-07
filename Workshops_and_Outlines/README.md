@@ -1,5 +1,6 @@
 # Workshop List
 
 ## VOSviewer Workshop - by Halle Burns
-* A workshop outline
-* A .ris (Research Information Systems) dataset
+* Workshop outline
+* RIS (Research Information Systems) dataset
+* CSV dataset
