@@ -37,6 +37,8 @@ This is a developing list of potential visualization tools (in alphabetical orde
 * CiteSpace
 * RDF Studio
 
+## Recommended Reading List
+
 ## List of Contributors
 As you add information or data to this list and repository, please enter your name/GitHub in this space.
 
