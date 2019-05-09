@@ -77,7 +77,7 @@ There are two ways to save your work. The first would be to take a screenshot. O
 The other way of saving your work would be to go to Save (just above screenshot). Try saving this document as "VOSviewer map file" as a CSV. Save this somewhere you will be able to find it. If you open your file directory and open that CSV file, you will see various information as well as analytics have been stored. This includes not just the node "labels," your authors," but also which cluster they are grouped in as well as the x and y coordinates that node existed in within the VOSviewer program. Should you wish to re-open this project, you would be able to import this map file and your created visualization will reappear.
 
 ## Practice with CSV Files
-Make sure the CSV file (Zika_authors.csv) is downloaded somewhere easily accessible on your machine. For this dataset, we will just be creating a standard map. Experiment with the different import settings. Once imported, experiment with the different visualization options and controls.
+Make sure the CSV file (Zika_authors.csv) is downloaded somewhere easily accessible on your machine. For this dataset, we will just be creating a map based on network data. You will be opening the file as a "VOSviewer network file." Experiment with the different import settings. Once imported, experiment with the different visualization options and controls.
 
 ## Wrap up Questions
 * What worked well for you? 
