@@ -38,6 +38,9 @@ This is a developing list of potential visualization tools (in alphabetical orde
 * RDF Studio
 
 ## Recommended Reading List
+* "Changing the Equation on Scientific Data Visualization" by Peter Fox and James Hendler
+* "A Periodic Table of Visualization Methods" by Visual Literacy, http://www.visual-literacy.org/periodic_table/periodic_table.html
+* "Formal Linked Data Visualization Model" by Josep Maria Brunetti, Sören Auer, Roberto García, Jakub Klímek, and Martin Neˇcaský
 
 ## List of Contributors
 As you add information or data to this list and repository, please enter your name/GitHub in this space.
