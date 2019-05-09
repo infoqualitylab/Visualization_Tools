@@ -47,7 +47,7 @@ The second type of graph, the Overlay, shows the authors clustered in a similar 
 </br>
 The third type of graph, Density, shows the clusters once again, however the lines connecting these clusters has now vanished. Instead, the clusters are indicated by names of various sizes as well as a color range. Denser clusters (ones containing more authors) are larger spots and the authors with more connections appear in larger font sizes. </br>
 </br>
-**Brief activity:** Write down some positives and negatives of using each of these three types of graphs. What graph do you think best displays this data? Why?
+**Activity:** Write down some positives and negatives of using each of these three types of graphs. What graph do you think best displays this data? Why?
 
 ## Navigating the Workspace: Understanding/Manipulating the Controls
 At the very bottom of the screen, some basic information is displayed about your graph. Here, it confirms how many total items were selected, how many clusters were created from these items, how many total links exist between items, and the calculated total strength of the links.
@@ -80,7 +80,7 @@ The other way of saving your work would be to go to Save (just above screenshot)
 Make sure the CSV file (Zika_authors.csv) is downloaded somewhere easily accessible on your machine. For this dataset, we will just be creating a standard map. Experiment with the different import settings. Once imported, experiment with the different visualization options and controls.
 
 ## Wrap up Questions
-* What worked for you? 
+* What worked well for you? 
 * What did not? 
 * What do you like about using VOSviewer?
 * What do you not like?
