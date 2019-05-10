@@ -40,7 +40,7 @@ This is a developing list of potential visualization tools (in alphabetical orde
 ## Recommended Reading List
 * "Changing the Equation on Scientific Data Visualization" by Peter Fox and James Hendler, 2013, In Science, 331(6018), 705-708. http://doi.org/10.1126/science.1197654
 * "A Periodic Table of Visualization Methods" by Visual Literacy, http://www.visual-literacy.org/periodic_table/periodic_table.html 
-** Described in the conference paper introducing it: "Towards a Periodic Table of Visualization Methods for Management" by Ralph Lengler & Martin J. Eppler. 2007. In IASTED Proceedings of the Conference on Graphics and Visualization in Engineering (GVE 2007). http://www.visual-literacy.org/periodic_table/periodic_table.pdf
+ * Described in the conference paper introducing it: "Towards a Periodic Table of Visualization Methods for Management" by Ralph Lengler & Martin J. Eppler. 2007. In IASTED Proceedings of the Conference on Graphics and Visualization in Engineering (GVE 2007). http://www.visual-literacy.org/periodic_table/periodic_table.pdf
 * "Formal Linked Data Visualization Model" by Josep Maria Brunetti, Sören Auer, Roberto García, Jakub Klímek, and Martin Nečaský. 2013. In Proceedings of International Conference on Information Integration and Web-based Applications & Services (IIWAS '13). ACM. https://doi.org/10.1145/2539150.2539162
 
 ## List of Contributors
