@@ -1,6 +1,8 @@
 # Visualization Tools
 
-This is a developing list of potential visualization tools (in alphabetical order) based on an independent study carried out by Halle Burns (https://github.com/hburns2). The initial tools within this list were identified based on a literature review investigating visualization tools and techniques that could be utilized to showcase and explore linked data. With additions from future students, this author expects the scope of this list to become broader. It is important to note that the numerical ranking system utilzied in this list is biased and reflects what the initial author believes would be suitable and/or easy to utilize for novices exploring data analysis and visualization or first-time users. The *ranking system* is as follows:
+This is a developing list of potential visualization tools (in alphabetical order) based on an independent study carried out by Halle Burns (https://github.com/hburns2). The initial tools within this list were identified based on a literature review investigating visualization tools and techniques that could be utilized to showcase and explore linked data. With additions from future students, this author expects the scope of this list to become broader. </br>
+</br>
+It is important to note that the numerical ranking system utilzied in this list is biased and reflects what the initial author believes would be suitable and/or easy to utilize for novices exploring data analysis and visualization or first-time users. The *ranking system* is as follows:
 
 1. This tool requires no previous background knowledge or skills. With some experimentation, it is reasonably easy to navigate and to understand.
 2. This tool requires background knowledge in order to use. While this does not involve coding on the part of the user, it does involve basic understanding of concepts relating to data structures or coding languages. With some experimentation, it is reasonably easy to navigate and to understand.
