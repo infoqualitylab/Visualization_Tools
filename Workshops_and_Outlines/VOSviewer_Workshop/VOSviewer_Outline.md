@@ -79,8 +79,9 @@ The other way of saving your work would be to go to Save (just above screenshot)
 ## Practice with CSV Files
 Make sure the CSV file (Zika_authors.csv) is downloaded somewhere easily accessible on your machine. For this dataset, we will just be creating a map based on network data. You will be opening the file as a "VOSviewer network file." Experiment with the different import settings. Once imported, experiment with the different visualization options and controls.
 
-## Wrap up Questions
+## Wrap-up Questions
 * What worked well for you? 
 * What did not? 
 * What do you like about using VOSviewer?
 * What do you not like?
+* Can you see yourself integrating this tool, or similar technology, into your own research? How?
